@@ -1,0 +1,10 @@
+Command line:
+   UART_Testbench_isim_beh.exe
+     -simmode  gui
+     -simrunnum  0
+     -socket  4824
+
+Fri Feb 02 12:52:45 2024
+
+
+ Elaboration Time: 0.078125 sec

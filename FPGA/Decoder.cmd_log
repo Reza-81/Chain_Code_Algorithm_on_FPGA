@@ -1,0 +1,1 @@
+xst -intstyle ise -ifn "F:/fpga/fpga_final_project/Decoder.xst" -ofn "F:/fpga/fpga_final_project/Decoder.syr" 

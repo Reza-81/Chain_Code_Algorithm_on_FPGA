@@ -1,0 +1,28 @@
+Running: C:\Xilinx\14.7\ISE_DS\ISE\bin\nt64\unwrapped\fuse.exe -intstyle ise -incremental -lib unisims_ver -lib unimacro_ver -lib xilinxcorelib_ver -lib secureip -o F:/fpga/fpga_final_project/UART_Testbench_isim_beh.exe -prj F:/fpga/fpga_final_project/UART_Testbench_beh.prj work.UART_Testbench work.glbl 
+ISim P.20131013 (signature 0x7708f090)
+Number of CPUs detected in this system: 4
+Turning on mult-threading, number of parallel sub-compilation jobs: 8 
+Determining compilation order of HDL files
+Analyzing Verilog file "F:/fpga/fpga_final_project/encoder.v" into library work
+Analyzing Verilog file "F:/fpga/fpga_final_project/decoder.v" into library work
+WARNING:HDLCompiler:693 - "F:/fpga/fpga_final_project/decoder.v" Line 43: Parameter declaration becomes local in Decoder with formal parameter declaration list
+WARNING:HDLCompiler:693 - "F:/fpga/fpga_final_project/decoder.v" Line 44: Parameter declaration becomes local in Decoder with formal parameter declaration list
+WARNING:HDLCompiler:693 - "F:/fpga/fpga_final_project/decoder.v" Line 45: Parameter declaration becomes local in Decoder with formal parameter declaration list
+WARNING:HDLCompiler:693 - "F:/fpga/fpga_final_project/decoder.v" Line 46: Parameter declaration becomes local in Decoder with formal parameter declaration list
+WARNING:HDLCompiler:693 - "F:/fpga/fpga_final_project/decoder.v" Line 47: Parameter declaration becomes local in Decoder with formal parameter declaration list
+Analyzing Verilog file "F:/fpga/fpga_final_project/uart_test.v" into library work
+Analyzing Verilog file "C:/Xilinx/14.7/ISE_DS/ISE//verilog/src/glbl.v" into library work
+Starting static elaboration
+WARNING:HDLCompiler:189 - "F:/fpga/fpga_final_project/uart_test.v" Line 35: Size mismatch in connection of port <reset>. Formal port size is 1-bit while actual signal size is 32-bit.
+WARNING:HDLCompiler:189 - "F:/fpga/fpga_final_project/uart_test.v" Line 37: Size mismatch in connection of port <start>. Formal port size is 1-bit while actual signal size is 32-bit.
+Completed static elaboration
+Compiling module encoder
+Compiling module Decoder(CLKS_PER_BIT=10)
+Compiling module UART_Testbench
+Compiling module glbl
+Time Resolution for simulation is 1ps.
+Waiting for 1 sub-compilation(s) to finish...
+Compiled 4 Verilog Units
+Built simulation executable F:/fpga/fpga_final_project/UART_Testbench_isim_beh.exe
+Fuse Memory Usage: 29956 KB
+Fuse CPU Usage: 561 ms

@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "unisims_ver" -lib "unimacro_ver" -lib "xilinxcorelib_ver" -lib "secureip" -o "F:/fpga/fpga_final_project/UART_Testbench_isim_beh.exe" -prj "F:/fpga/fpga_final_project/UART_Testbench_beh.prj" "work.UART_Testbench" "work.glbl" 

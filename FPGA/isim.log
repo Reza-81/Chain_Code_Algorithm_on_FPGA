@@ -1,0 +1,1046 @@
+ISim log file
+Running: F:\fpga\fpga_final_project\UART_Testbench_isim_beh.exe -intstyle ise -gui -tclbatch isim.cmd -wdb F:/fpga/fpga_final_project/UART_Testbench_isim_beh.wdb 
+ISim P.20131013 (signature 0x7708f090)
+This is a Full version of ISim.
+WARNING:  For instance UART_Testbench/Encoder_Uart/, width 1 of formal port reset is not equal to width 32 of actual constant.
+WARNING:  For instance UART_Testbench/Encoder_Uart/, width 1 of formal port start is not equal to width 32 of actual constant.
+Time resolution is 1 ps
+# onerror resume
+# wave add /
+# run 1000 ns
+Simulator is doing circuit initialization process.
+Finished circuit initialization process.
+# run 10000.00us
+vector 0 pushed
+----------------------------
+vector 0 pushed
+----------------------------
+vector 0 pushed
+----------------------------
+vector 0 pushed
+----------------------------
+vector 0 pushed
+----------------------------
+vector 0 pushed
+----------------------------
+vector 0 pushed
+----------------------------
+vector 0 pushed
+----------------------------
+vector 0 pushed
+----------------------------
+vector 0 pushed
+----------------------------
+vector 0 pushed
+----------------------------
+vector 6 pushed
+----------------------------
+vector 6 pushed
+----------------------------
+vector 6 pushed
+----------------------------
+vector 6 pushed
+----------------------------
+vector 6 pushed
+----------------------------
+vector 6 pushed
+----------------------------
+vector 6 pushed
+----------------------------
+vector 6 pushed
+----------------------------
+vector 7 pushed
+----------------------------
+vector 0 pushed
+----------------------------
+vector 0 pushed
+----------------------------
+vector 0 pushed
+----------------------------
+vector 0 pushed
+----------------------------
+vector 0 pushed
+----------------------------
+vector 0 pushed
+----------------------------
+vector 0 pushed
+----------------------------
+vector 0 pushed
+----------------------------
+vector 0 pushed
+----------------------------
+vector 0 pushed
+----------------------------
+vector 0 pushed
+----------------------------
+vector 0 pushed
+----------------------------
+vector 0 pushed
+----------------------------
+vector 0 pushed
+----------------------------
+vector 0 pushed
+----------------------------
+vector 0 pushed
+----------------------------
+vector 0 pushed
+----------------------------
+vector 0 pushed
+----------------------------
+vector 0 pushed
+----------------------------
+vector 0 pushed
+----------------------------
+vector 0 pushed
+----------------------------
+vector 0 pushed
+----------------------------
+vector 6 pushed
+----------------------------
+vector 6 pushed
+----------------------------
+vector 6 pushed
+----------------------------
+vector 6 pushed
+----------------------------
+vector 6 pushed
+----------------------------
+vector 6 pushed
+----------------------------
+vector 6 pushed
+----------------------------
+vector 6 pushed
+----------------------------
+vector 6 pushed
+----------------------------
+vector 6 pushed
+----------------------------
+vector 6 pushed
+----------------------------
+vector 6 pushed
+----------------------------
+vector 6 pushed
+----------------------------
+vector 6 pushed
+----------------------------
+vector 6 pushed
+----------------------------
+vector 4 pushed
+----------------------------
+vector 4 pushed
+----------------------------
+vector 4 pushed
+----------------------------
+vector 4 pushed
+----------------------------
+vector 4 pushed
+----------------------------
+vector 4 pushed
+----------------------------
+vector 4 pushed
+----------------------------
+vector 4 pushed
+----------------------------
+vector 4 pushed
+----------------------------
+vector 4 pushed
+----------------------------
+vector 4 pushed
+----------------------------
+vector 2 pushed
+----------------------------
+vector 2 pushed
+----------------------------
+vector 2 pushed
+----------------------------
+vector 2 pushed
+----------------------------
+vector 2 pushed
+----------------------------
+vector 2 pushed
+----------------------------
+vector 2 pushed
+----------------------------
+vector 2 pushed
+----------------------------
+vector 3 pushed
+----------------------------
+vector 4 pushed
+----------------------------
+vector 4 pushed
+----------------------------
+vector 4 pushed
+----------------------------
+vector 4 pushed
+----------------------------
+vector 4 pushed
+----------------------------
+vector 4 pushed
+----------------------------
+vector 4 pushed
+----------------------------
+vector 4 pushed
+----------------------------
+vector 4 pushed
+----------------------------
+vector 4 pushed
+----------------------------
+vector 4 pushed
+----------------------------
+vector 4 pushed
+----------------------------
+vector 4 pushed
+----------------------------
+vector 4 pushed
+----------------------------
+vector 4 pushed
+----------------------------
+vector 4 pushed
+----------------------------
+vector 4 pushed
+----------------------------
+vector 4 pushed
+----------------------------
+vector 4 pushed
+----------------------------
+vector 4 pushed
+----------------------------
+vector 4 pushed
+----------------------------
+vector 4 pushed
+----------------------------
+vector 2 pushed
+----------------------------
+vector 2 pushed
+----------------------------
+vector 2 pushed
+----------------------------
+vector 2 pushed
+----------------------------
+vector 2 pushed
+----------------------------
+vector 2 pushed
+----------------------------
+vector 2 pushed
+----------------------------
+vector 2 pushed
+----------------------------
+vector 2 pushed
+----------------------------
+vector 2 pushed
+----------------------------
+vector 2 pushed
+----------------------------
+vector 2 pushed
+----------------------------
+vector 2 pushed
+----------------------------
+vector 2 pushed
+----------------------------
+vector 2 pushed
+----------------------------
+----------------------------
+start bit sending
+code: 0
+code: 0
+code: 0
+code: 0
+===========================     0
+stop bit sending
+start bit sending
+code: 0
+code: 0
+code: 0
+code: 0
+===========================     1
+stop bit sending
+start bit sending
+code: 0
+code: 0
+code: 0
+code: 0
+===========================     2
+stop bit sending
+start bit sending
+code: 0
+code: 0
+code: 0
+code: 0
+===========================     3
+stop bit sending
+start bit sending
+code: 0
+code: 0
+code: 0
+code: 0
+===========================     4
+stop bit sending
+start bit sending
+code: 0
+code: 0
+code: 0
+code: 0
+===========================     5
+stop bit sending
+start bit sending
+code: 0
+code: 0
+code: 0
+code: 0
+===========================     6
+stop bit sending
+start bit sending
+code: 0
+code: 0
+code: 0
+code: 0
+===========================     7
+stop bit sending
+start bit sending
+code: 0
+code: 0
+code: 0
+code: 0
+===========================     8
+stop bit sending
+start bit sending
+code: 0
+code: 0
+code: 0
+code: 0
+===========================     9
+stop bit sending
+start bit sending
+code: 0
+code: 0
+code: 0
+code: 0
+===========================    10
+stop bit sending
+start bit sending
+code: 0
+code: 1
+code: 1
+code: 0
+===========================    11
+stop bit sending
+start bit sending
+code: 0
+code: 1
+code: 1
+code: 0
+===========================    12
+stop bit sending
+start bit sending
+code: 0
+code: 1
+code: 1
+code: 0
+===========================    13
+stop bit sending
+start bit sending
+code: 0
+code: 1
+code: 1
+code: 0
+===========================    14
+stop bit sending
+start bit sending
+code: 0
+code: 1
+code: 1
+code: 0
+===========================    15
+stop bit sending
+start bit sending
+code: 0
+code: 1
+code: 1
+code: 0
+===========================    16
+stop bit sending
+start bit sending
+code: 0
+code: 1
+code: 1
+code: 0
+===========================    17
+stop bit sending
+start bit sending
+code: 0
+code: 1
+code: 1
+code: 0
+===========================    18
+stop bit sending
+start bit sending
+code: 1
+code: 1
+code: 1
+code: 0
+===========================    19
+stop bit sending
+start bit sending
+code: 0
+code: 0
+code: 0
+code: 0
+===========================    20
+stop bit sending
+start bit sending
+code: 0
+code: 0
+code: 0
+code: 0
+===========================    21
+stop bit sending
+start bit sending
+code: 0
+code: 0
+code: 0
+code: 0
+===========================    22
+stop bit sending
+start bit sending
+code: 0
+code: 0
+code: 0
+code: 0
+===========================    23
+stop bit sending
+start bit sending
+code: 0
+code: 0
+code: 0
+code: 0
+===========================    24
+stop bit sending
+start bit sending
+code: 0
+code: 0
+code: 0
+code: 0
+===========================    25
+stop bit sending
+start bit sending
+code: 0
+code: 0
+code: 0
+code: 0
+===========================    26
+stop bit sending
+start bit sending
+code: 0
+code: 0
+code: 0
+code: 0
+===========================    27
+stop bit sending
+start bit sending
+code: 0
+code: 0
+code: 0
+code: 0
+===========================    28
+stop bit sending
+start bit sending
+code: 0
+code: 0
+code: 0
+code: 0
+===========================    29
+stop bit sending
+start bit sending
+code: 0
+code: 0
+code: 0
+code: 0
+===========================    30
+stop bit sending
+start bit sending
+code: 0
+code: 0
+code: 0
+code: 0
+===========================    31
+stop bit sending
+start bit sending
+code: 0
+code: 0
+code: 0
+code: 0
+===========================    32
+stop bit sending
+start bit sending
+code: 0
+code: 0
+code: 0
+code: 0
+===========================    33
+stop bit sending
+start bit sending
+code: 0
+code: 0
+code: 0
+code: 0
+===========================    34
+stop bit sending
+start bit sending
+code: 0
+code: 0
+code: 0
+code: 0
+===========================    35
+stop bit sending
+start bit sending
+code: 0
+code: 0
+code: 0
+code: 0
+===========================    36
+stop bit sending
+start bit sending
+code: 0
+code: 0
+code: 0
+code: 0
+===========================    37
+stop bit sending
+start bit sending
+code: 0
+code: 0
+code: 0
+code: 0
+===========================    38
+stop bit sending
+start bit sending
+code: 0
+code: 0
+code: 0
+code: 0
+===========================    39
+stop bit sending
+start bit sending
+code: 0
+code: 0
+code: 0
+code: 0
+===========================    40
+stop bit sending
+start bit sending
+code: 0
+code: 0
+code: 0
+code: 0
+===========================    41
+stop bit sending
+start bit sending
+code: 0
+code: 1
+code: 1
+code: 0
+===========================    42
+stop bit sending
+start bit sending
+code: 0
+code: 1
+code: 1
+code: 0
+===========================    43
+stop bit sending
+start bit sending
+code: 0
+code: 1
+code: 1
+code: 0
+===========================    44
+stop bit sending
+start bit sending
+code: 0
+code: 1
+code: 1
+code: 0
+===========================    45
+stop bit sending
+start bit sending
+code: 0
+code: 1
+code: 1
+code: 0
+===========================    46
+stop bit sending
+start bit sending
+code: 0
+code: 1
+code: 1
+code: 0
+===========================    47
+stop bit sending
+start bit sending
+code: 0
+code: 1
+code: 1
+code: 0
+===========================    48
+stop bit sending
+start bit sending
+code: 0
+code: 1
+code: 1
+code: 0
+===========================    49
+stop bit sending
+start bit sending
+code: 0
+code: 1
+code: 1
+code: 0
+===========================    50
+stop bit sending
+start bit sending
+code: 0
+code: 1
+code: 1
+code: 0
+===========================    51
+stop bit sending
+start bit sending
+code: 0
+code: 1
+code: 1
+code: 0
+===========================    52
+stop bit sending
+start bit sending
+code: 0
+code: 1
+code: 1
+code: 0
+===========================    53
+stop bit sending
+start bit sending
+code: 0
+code: 1
+code: 1
+code: 0
+===========================    54
+stop bit sending
+start bit sending
+code: 0
+code: 1
+code: 1
+code: 0
+===========================    55
+stop bit sending
+start bit sending
+code: 0
+code: 1
+code: 1
+code: 0
+===========================    56
+stop bit sending
+start bit sending
+code: 0
+code: 0
+code: 1
+code: 0
+===========================    57
+stop bit sending
+start bit sending
+code: 0
+code: 0
+code: 1
+code: 0
+===========================    58
+stop bit sending
+start bit sending
+code: 0
+code: 0
+code: 1
+code: 0
+===========================    59
+stop bit sending
+start bit sending
+code: 0
+code: 0
+code: 1
+code: 0
+===========================    60
+stop bit sending
+start bit sending
+code: 0
+code: 0
+code: 1
+code: 0
+===========================    61
+stop bit sending
+start bit sending
+code: 0
+code: 0
+code: 1
+code: 0
+===========================    62
+stop bit sending
+start bit sending
+code: 0
+code: 0
+code: 1
+code: 0
+===========================    63
+stop bit sending
+start bit sending
+code: 0
+code: 0
+code: 1
+code: 0
+===========================    64
+stop bit sending
+start bit sending
+code: 0
+code: 0
+code: 1
+code: 0
+===========================    65
+stop bit sending
+start bit sending
+code: 0
+code: 0
+code: 1
+code: 0
+===========================    66
+stop bit sending
+start bit sending
+code: 0
+code: 0
+code: 1
+code: 0
+===========================    67
+stop bit sending
+start bit sending
+code: 0
+code: 1
+code: 0
+code: 0
+===========================    68
+stop bit sending
+start bit sending
+code: 0
+code: 1
+code: 0
+code: 0
+===========================    69
+stop bit sending
+start bit sending
+code: 0
+code: 1
+code: 0
+code: 0
+===========================    70
+stop bit sending
+start bit sending
+code: 0
+code: 1
+code: 0
+code: 0
+===========================    71
+stop bit sending
+start bit sending
+code: 0
+code: 1
+code: 0
+code: 0
+===========================    72
+stop bit sending
+start bit sending
+code: 0
+code: 1
+code: 0
+code: 0
+===========================    73
+stop bit sending
+start bit sending
+code: 0
+code: 1
+code: 0
+code: 0
+===========================    74
+stop bit sending
+start bit sending
+code: 0
+code: 1
+code: 0
+code: 0
+===========================    75
+stop bit sending
+start bit sending
+code: 1
+code: 1
+code: 0
+code: 0
+===========================    76
+stop bit sending
+start bit sending
+code: 0
+code: 0
+code: 1
+code: 0
+===========================    77
+stop bit sending
+start bit sending
+code: 0
+code: 0
+code: 1
+code: 0
+===========================    78
+stop bit sending
+start bit sending
+code: 0
+code: 0
+code: 1
+code: 0
+===========================    79
+stop bit sending
+start bit sending
+code: 0
+code: 0
+code: 1
+code: 0
+===========================    80
+stop bit sending
+start bit sending
+code: 0
+code: 0
+code: 1
+code: 0
+===========================    81
+stop bit sending
+start bit sending
+code: 0
+code: 0
+code: 1
+code: 0
+===========================    82
+stop bit sending
+start bit sending
+code: 0
+code: 0
+code: 1
+code: 0
+===========================    83
+stop bit sending
+start bit sending
+code: 0
+code: 0
+code: 1
+code: 0
+===========================    84
+stop bit sending
+start bit sending
+code: 0
+code: 0
+code: 1
+code: 0
+===========================    85
+stop bit sending
+start bit sending
+code: 0
+code: 0
+code: 1
+code: 0
+===========================    86
+stop bit sending
+start bit sending
+code: 0
+code: 0
+code: 1
+code: 0
+===========================    87
+stop bit sending
+start bit sending
+code: 0
+code: 0
+code: 1
+code: 0
+===========================    88
+stop bit sending
+start bit sending
+code: 0
+code: 0
+code: 1
+code: 0
+===========================    89
+stop bit sending
+start bit sending
+code: 0
+code: 0
+code: 1
+code: 0
+===========================    90
+stop bit sending
+start bit sending
+code: 0
+code: 0
+code: 1
+code: 0
+===========================    91
+stop bit sending
+start bit sending
+code: 0
+code: 0
+code: 1
+code: 0
+===========================    92
+stop bit sending
+start bit sending
+code: 0
+code: 0
+code: 1
+code: 0
+===========================    93
+stop bit sending
+start bit sending
+code: 0
+code: 0
+code: 1
+code: 0
+===========================    94
+stop bit sending
+start bit sending
+code: 0
+code: 0
+code: 1
+code: 0
+===========================    95
+stop bit sending
+start bit sending
+code: 0
+code: 0
+code: 1
+code: 0
+===========================    96
+stop bit sending
+start bit sending
+code: 0
+code: 0
+code: 1
+code: 0
+===========================    97
+stop bit sending
+start bit sending
+code: 0
+code: 0
+code: 1
+code: 0
+===========================    98
+stop bit sending
+start bit sending
+code: 0
+code: 1
+code: 0
+code: 0
+===========================    99
+stop bit sending
+start bit sending
+code: 0
+code: 1
+code: 0
+code: 0
+===========================   100
+stop bit sending
+start bit sending
+code: 0
+code: 1
+code: 0
+code: 0
+===========================   101
+stop bit sending
+start bit sending
+code: 0
+code: 1
+code: 0
+code: 0
+===========================   102
+stop bit sending
+start bit sending
+code: 0
+code: 1
+code: 0
+code: 0
+===========================   103
+stop bit sending
+start bit sending
+code: 0
+code: 1
+code: 0
+code: 0
+===========================   104
+stop bit sending
+start bit sending
+code: 0
+code: 1
+code: 0
+code: 0
+===========================   105
+stop bit sending
+start bit sending
+code: 0
+code: 1
+code: 0
+code: 0
+===========================   106
+stop bit sending
+start bit sending
+code: 0
+code: 1
+code: 0
+code: 0
+===========================   107
+stop bit sending
+start bit sending
+code: 0
+code: 1
+code: 0
+code: 0
+===========================   108
+stop bit sending
+start bit sending
+code: 0
+code: 1
+code: 0
+code: 0
+===========================   109
+stop bit sending
+start bit sending
+code: 0
+code: 1
+code: 0
+code: 0
+===========================   110
+stop bit sending
+start bit sending
+code: 0
+code: 1
+code: 0
+code: 0
+===========================   111
+stop bit sending
+start bit sending
+code: 0
+code: 1
+code: 0
+code: 0
+===========================   112
+stop bit sending
+start bit sending
+code: 0
+code: 1
+code: 0
+code: 0
+===========================   113
+stop bit sending
+start bit sending
+code: 0
+code: 0
+code: 0
+code: 1
+===========================   114
